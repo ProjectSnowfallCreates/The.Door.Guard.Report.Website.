@@ -12,7 +12,7 @@
 </ul>
     <h2>Return to door Guard</h2>
     <h3>Incase of a link misclick/tap this link will take you back to the door guard app/website
-    <h4><a href="https://projectsnowfallcreates.github.io/The.Door.Guard.Report.Website./">Main app/Website</a></h4>
+    <h4><a href="https://projectsnowfallcreates.github.io/The.Door.Guard/">Main app/Website</a></h4>
 <h2 id="report">Report</h2>
 <h3>suspected issues</h3>
     <h4>Copy and paste issue into issue section if your facing any of the following suspected issues.</h4>

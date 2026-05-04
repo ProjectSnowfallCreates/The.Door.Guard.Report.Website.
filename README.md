@@ -18,16 +18,16 @@
     <h4>Copy and paste issue into issue section if your facing any of the following suspected issues.</h4>
 <ul>
   <li>Counter dies not increase when door opens or closes.</li>
-  <li>Enable/Disable counter doesn't work</li>
-  <li>Disable/Enable alarm doesn't work</li>
-  <li>Save counter doesn't save counter</li>
-  <li>Alarm off button doesn't turn off triggered alarm</li>
-  <li>Access granting doesn't give access to other user</li>
-  <li>Account swapping doesn't allow you to swap accounts</li>
-  <li>Account creation doesn't allow tou to create a new account</li>
-  <li>App loses your account</li>
-  <li>Account has been hacked</li>
-  <li>Unknwn account has access to clients</li>
+  <li>Enable/Disable counter doesn't work.</li>
+  <li>Disable/Enable alarm doesn't work.</li>
+  <li>Save counter doesn't save counter.</li>
+  <li>Alarm off button doesn't turn off triggered alarm.</li>
+  <li>Access granting doesn't give access to other user.</li>
+  <li>Account swapping doesn't allow you to swap accounts.</li>
+  <li>Account creation doesn't allow tou to create a new account.</li>
+  <li>App loses your account.</li>
+  <li>Account has been hacked.</li>
+  <li>Unknown account has access to clients.</li>
 </ul>
 <h2>What is your username?</h2>
 Username

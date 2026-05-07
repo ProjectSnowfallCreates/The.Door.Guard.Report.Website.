@@ -28,6 +28,7 @@
   <li>App loses your account.</li>
   <li>Account has been hacked.</li>
   <li>Unknown account has access to clients.</li>
+  <li>Location swapping doesn't work.</li>
 </ul>
 <h2>What is your username?</h2>
 Username
